@@ -2,7 +2,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: #182C61;
+    /* background: #182C61; */
+    background-image: url(img/landscape.jpg);
 }
 
 .box {
@@ -15,7 +16,7 @@ body {
     background: #191919;
     text-align: center;
     border-radius: 10pX;
-    overflow: hidden;
+    opacity: 0.7;
 }
 
 .box h1 {
